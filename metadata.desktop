@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Avdan Windows XP 2019 Splash 
+
+Comment=KDE Splash from the idea of bootscreen of windows xp 2019 concept by Avdan.
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=AERegeneratel38
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=mukunda.adhikari@outlook.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Version=
+X-Plasma-MainScript=defaults
